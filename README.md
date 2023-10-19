@@ -23,11 +23,6 @@
         <div>
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=0d1117" />
             <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=%2300acd7&color=0d1117" />
-        </div>
-    </li>
-    <li>
-        <h3>DB 👜</h3>
-        <div>
             <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192&color=0d1117" />
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=%23136494&color=0d1117" />
         </div>
@@ -37,6 +32,8 @@
         <div>
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=0d1117" />
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=%23f05033&color=0d1117" />
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed&color=0d1117"/>
+            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599c&color=0d1117" />
         </div>
     </li>
 </ul>
