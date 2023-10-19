@@ -40,12 +40,7 @@
         </div>
     </li>
 </ul>
-<div>
-  <h2>Contact Me 💬</h2>
-  <a href="https://t.me/yaroslav_asu" > 
-    <img height="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72649893/276625833-5e698a87-b935-406c-88c4-d8b07a92c223.svg"/>
-  </a>
-  <a href="https://www.linkedin.com/in/filippov-yaroslav/">
+<h2>My Cv 🧦</h2>
+<a href="https://www.linkedin.com/in/filippov-yaroslav/">
     <img height="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72649893/276625935-9162c29f-0fa2-44cf-8f92-ec9ed0aacd6c.svg"/>
-  </a>
-</div>
+</a>
