@@ -3,7 +3,7 @@
 </p>
 <img align="right" src="https://github.com/yaroslav-asu/yaroslav-asu/assets/72649893/d406e01b-d957-496c-9388-eb5df264fc45"/>
 <h2>About me 💻</h2>
-<p>My name is Yaroslav Filippov. I'm a 19-year-old enthusiastic web developer. Currently, I'm working as Frontend lead.</p>
+<p>My name is Yaroslav Filippov. I'm a 20-year-old enthusiastic web developer. Currently, I'm working as Frontend lead.</p>
 <h2>My stack 📚</h2>
 <ul>
     <li>
