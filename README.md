@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D83FF,100:36F1CD&height=220&section=header&text=Yaroslav%20Filippov&fontSize=70&fontColor=fff"/>
 </p>
 <img align="right" src="https://github.com/yaroslav-asu/yaroslav-asu/assets/72649893/d406e01b-d957-496c-9388-eb5df264fc45"/>
-<h2>About me 💻</h2>
-<p>My name is Yaroslav Filippov. I'm a 20-year-old enthusiastic web developer. Currently, I'm working as Frontend lead.</p>
-<h2>My stack 📚</h2>
+<h3>About me 💻</h2>
+<p>My name is Yaroslav Filippov. I'm a 20-year-old enthusiastic web developer. Currently, I'm working as Frontend developer.</p>
+<h3>My stack 📚</h2>
 <ul>
     <li>
         <h3>Frontend 👀</h3>
@@ -37,7 +37,7 @@
         </div>
     </li>
 </ul>
-<h2>My Cv 🧦</h2>
+<h3>My Cv 🧦</h2>
 <a href="https://www.linkedin.com/in/filippov-yaroslav/">
     <img height="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72649893/276625935-9162c29f-0fa2-44cf-8f92-ec9ed0aacd6c.svg"/>
 </a>
